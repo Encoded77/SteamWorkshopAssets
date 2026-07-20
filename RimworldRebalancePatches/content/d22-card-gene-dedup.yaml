@@ -1,0 +1,10 @@
+type: card
+eyebrow: Requires Biotech
+title: Gene Deduplication
+icon: assets/icons/gene-dedup.svg
+body:
+  - p: >-
+      A large gene modlist ends up with dozens of genes doing the same job under
+      different names. **One canonical gene per function** survives and xenotypes are
+      repointed at it, so every race still reads the way it should. Broken and
+      overpowered stacks become mutually exclusive.

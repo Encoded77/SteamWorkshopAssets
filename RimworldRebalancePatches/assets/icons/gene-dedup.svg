@@ -1,0 +1,13 @@
+<!-- Gene deduplication: one canonical gene hexagon kept, two duplicates struck
+     out. The hexagon is RimWorld's gene shape, redrawn in the amber line-art
+     of this identity. -->
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M13 10 19 13.5 19 20.5 13 24 7 20.5 7 13.5Z" stroke="#9a6612" stroke-width="1.5"/>
+  <path d="M9 12.5 17 21.5" stroke="#9a6612" stroke-width="1.5"/>
+
+  <path d="M35 24 41 27.5 41 34.5 35 38 29 34.5 29 27.5Z" stroke="#9a6612" stroke-width="1.5"/>
+  <path d="M31 26.5 39 35.5" stroke="#9a6612" stroke-width="1.5"/>
+
+  <path d="M24 15 32 19.5 32 28.5 24 33 16 28.5 16 19.5Z" fill="rgba(239,166,44,0.16)" stroke="#ffc35c" stroke-width="2"/>
+  <path d="M24 21 27 22.7 27 26.3 24 28 21 26.3 21 22.7Z" stroke="#efa62c" stroke-width="1.5"/>
+</svg>

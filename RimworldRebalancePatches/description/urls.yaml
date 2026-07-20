@@ -1,8 +1,19 @@
-# Maps image name (the content file's basename) to the URL it is hosted at.
+# Maps image name (the content file's basename) to the URL it is served from.
 #
-# Prefer Steam's own CDN: upload the PNG as a workshop screenshot, then copy its
-# steamuserimages-a.akamaihd.net address here. Imgur is region-blocked for UK
-# users, which silently breaks images for part of your audience.
+# Written by `swdh publish` — edits here are overwritten on the next publish.
 #
-# Example:
-# 01-features-banner: https://steamuserimages-a.akamaihd.net/ugc/0000000000000000000/ABCDEF/
+# URLs are jsDelivr, pinned to the commit that contains the image. The pin is
+# what makes them immutable: jsDelivr caches aggressively, and a branch URL
+# would eventually serve something other than what a published description was
+# written against.
+
+d10-banner-details: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d10-banner-details.png
+d20-banner-overhauls: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d20-banner-overhauls.png
+d21-card-genetics-research: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d21-card-genetics-research.png
+d22-card-gene-dedup: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d22-card-gene-dedup.png
+d23-card-scifi-renaming: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d23-card-scifi-renaming.png
+d24-card-expertise: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d24-card-expertise.png
+d30-banner-patches: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d30-banner-patches.png
+d40-banner-compatibility: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d40-banner-compatibility.png
+d50-banner-credits: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d50-banner-credits.png
+d45-shot-settings: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@839dd1d7638ea57fb93635f6c106c0ee6fa188e1/RimworldRebalancePatches/out/d45-shot-settings.png

@@ -1,0 +1,13 @@
+type: carousel
+screenshot: assets/screenshots/expertise-list.png
+caption: Around seventy narrow expertises collapsed into 32 broader ones.
+# Fixed canvas, identical across the carousel.
+width: 1100
+height: 850
+annotations:
+  - x: 14
+    y: 28
+    width: 191
+    height: 602
+    text: New expertises
+    side: right

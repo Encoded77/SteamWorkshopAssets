@@ -1,0 +1,23 @@
+type: block
+body:
+  - image:
+      src: assets/screenshots/settings-toggles.png
+      caption: Every patch is a toggle, and every toggle states what it needs.
+      # Light: the surrounding toggle rows are part of the point, so full
+      # strength hid the list this screenshot exists to show.
+      dim: 0.35
+      annotations:
+        - x: 1045
+          y: 207
+          width: 255
+          height: 30
+          text: Greyed out when a target mod is missing
+          side: left
+        - x: 640
+          y: 866
+          width: 390
+          height: 90
+          text: Each toggle lists its required mods
+          # Below, into the empty strip under the Close button, rather than
+          # left across the toggle rows this screenshot exists to show.
+          side: bottom

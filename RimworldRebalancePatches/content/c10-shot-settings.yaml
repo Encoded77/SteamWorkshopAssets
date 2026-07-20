@@ -1,0 +1,20 @@
+type: carousel
+screenshot: assets/screenshots/settings-toggles.png
+caption: Every patch is a toggle, and every toggle states what it needs.
+# Fixed canvas, identical across the carousel.
+width: 1100
+height: 850
+dim: 0.35
+annotations:
+  - x: 1045
+    y: 207
+    width: 255
+    height: 30
+    text: Greyed out when a target mod is missing
+    side: left
+  - x: 640
+    y: 866
+    width: 390
+    height: 90
+    text: Each toggle lists its required mods
+    side: bottom

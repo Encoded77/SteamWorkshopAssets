@@ -1,0 +1,10 @@
+type: card
+eyebrow: Requires Vanilla Skills Expanded
+title: Expertise Overhaul
+icon: assets/icons/expertise.svg
+body:
+  - p: >-
+      Around seventy narrow expertises collapse into **32 broader ones**, two to four
+      per skill. Bonuses become multipliers capped near +40% at level 20, instead of
+      flat offsets that overshoot a stat's ceiling entirely. Quality expertises now
+      trade work speed for output.

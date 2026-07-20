@@ -1,0 +1,22 @@
+type: carousel
+screenshot: assets/screenshots/research-genetics.png
+caption: The reworked genetics branch, from sampling to archogenetics.
+# Fixed canvas, identical across the carousel.
+width: 1100
+height: 850
+# The capture is only 788x463, far smaller than the canvas, so fill it rather
+# than leave the tree floating in empty ground.
+upscale: true
+annotations:
+  - x: 17
+    y: 360
+    width: 143
+    height: 43
+    text: Starts at spacer tier
+    side: right
+  - x: 497
+    y: 95
+    width: 100
+    height: 45
+    text: Up to archogenetics
+    side: left

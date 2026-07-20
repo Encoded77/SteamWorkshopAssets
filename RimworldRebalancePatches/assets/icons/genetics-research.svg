@@ -1,0 +1,9 @@
+<!-- Genetics research: a double helix inside the gene-pack hexagon.
+     Drawn with straight segments rather than curves so it sits with the
+     identity's hard geometry instead of fighting it. -->
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M24 3 43 13.5v21L24 45 5 34.5v-21z" stroke="#9a6612" stroke-width="1.5"/>
+  <path d="M17 13 31 20 17 27 31 34" stroke="#efa62c" stroke-width="2" stroke-linejoin="miter"/>
+  <path d="M31 13 17 20 31 27 17 34" stroke="#ffc35c" stroke-width="2" stroke-linejoin="miter"/>
+  <path d="M20 15.5H28M20 31.5H28" stroke="#9a6612" stroke-width="1.5"/>
+</svg>
