@@ -8,15 +8,16 @@ height: 850
 # than leave the tree floating in empty ground.
 upscale: true
 annotations:
-  - x: 17
-    y: 360
-    width: 143
-    height: 43
+  - x: 22
+    y: 357
+    width: 133
+    height: 48
     text: Starts at spacer tier
-    side: right
-  - x: 497
-    y: 95
-    width: 100
-    height: 45
+    side: top
+  - x: 498
+    y: 91
+    width: 97
+    height: 47
     text: Up to archogenetics
-    side: left
+    side: top
+dim: 0.66

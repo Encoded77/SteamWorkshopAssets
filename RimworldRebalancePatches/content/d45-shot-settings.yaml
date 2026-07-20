@@ -11,13 +11,13 @@ body:
           y: 207
           width: 255
           height: 30
-          text: Greyed out when a target mod is missing
+          text: Disabled when a target mod is missing
           side: left
-        - x: 640
-          y: 866
-          width: 390
-          height: 90
-          text: Each toggle lists its required mods
+        - x: 634
+          y: 718
+          width: 399
+          height: 235
+          text: Documentation on hover
           # Below, into the empty strip under the Close button, rather than
           # left across the toggle rows this screenshot exists to show.
-          side: bottom
+          side: left

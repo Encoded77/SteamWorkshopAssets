@@ -5,9 +5,15 @@ caption: Around seventy narrow expertises collapsed into 32 broader ones.
 width: 1100
 height: 850
 annotations:
-  - x: 14
-    y: 28
-    width: 191
-    height: 602
+  - x: 16
+    y: 108
+    width: 160
+    height: 446
     text: New expertises
-    side: right
+    side: top
+    # Centred, this overhangs the left border: the region is narrow and close to it.
+    at:
+      x: 210
+      y: 100
+dim: 0.66
+upscale: false
