@@ -1,0 +1,7 @@
+type: carousel
+screenshot: assets/screenshots/settings-3.png
+dim: 0.66
+width: 1100
+height: 850
+upscale: false
+caption: Dynamic tooltips to help you understand how parameters applies to your colony

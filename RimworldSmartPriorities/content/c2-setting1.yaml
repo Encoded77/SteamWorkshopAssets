@@ -1,0 +1,7 @@
+type: carousel
+screenshot: assets/screenshots/settings-1.png
+dim: 0.66
+width: 1100
+height: 850
+upscale: false
+caption: "Extensive settings tabs with sane defaults"

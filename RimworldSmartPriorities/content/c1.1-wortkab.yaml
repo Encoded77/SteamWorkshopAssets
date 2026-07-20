@@ -1,0 +1,17 @@
+type: carousel
+screenshot: assets/screenshots/work-tab.png
+dim: 0.66
+width: 1100
+height: 850
+upscale: false
+caption: Works correctly out of the box
+annotations:
+  - x: 1715
+    y: 7
+    width: 124
+    height: 63
+    text: Enable auto priorities
+    side: left
+    at:
+      x: 1501
+      y: 39

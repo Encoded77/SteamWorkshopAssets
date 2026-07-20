@@ -1,0 +1,7 @@
+type: carousel
+screenshot: assets/screenshots/settings-2.png
+dim: 0.66
+width: 1100
+height: 850
+upscale: false
+caption: "For advanced users, every part of the algorithm is customizable "

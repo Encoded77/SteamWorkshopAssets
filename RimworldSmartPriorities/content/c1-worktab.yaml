@@ -1,0 +1,35 @@
+type: carousel
+screenshot: assets/screenshots/work-tab.png
+dim: 0.66
+width: 1100
+height: 850
+upscale: false
+annotations:
+  - x: 16
+    y: 278
+    width: 1794
+    height: 54
+    text: Lock a pawn
+    side: top
+    at:
+      x: 156
+      y: 232
+  - x: 1699
+    y: 116
+    width: 49
+    height: 707
+    text: Lock a work type
+    side: left
+    at:
+      x: 1646
+      y: 106
+  - x: 1280
+    y: 760
+    width: 70
+    height: 73
+    text: Lock a cell
+    side: left
+    at:
+      x: 1149
+      y: 797
+caption: Easy overrides in the work tab UI with simple middle mouse clicks

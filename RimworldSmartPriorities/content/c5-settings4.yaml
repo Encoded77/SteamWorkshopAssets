@@ -1,0 +1,8 @@
+type: carousel
+screenshot: assets/screenshots/settings-4.png
+dim: 0.66
+width: 1100
+height: 850
+upscale: false
+caption: External workers count towards attributed work. Don't waste colonist
+  times on cleaning.
