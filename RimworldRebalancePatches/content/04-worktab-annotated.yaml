@@ -1,0 +1,16 @@
+type: block
+title: Work Tab Integration
+body:
+  - p: >-
+      Priorities locked by another mod are marked in place, so you can see **why**
+      a cell will not change instead of discovering it after the fact.
+  - image:
+      src: assets/screenshots/worktab.png
+      caption: Work tab with a locked priority cell.
+      annotations:
+        - x: 242
+          y: 94
+          width: 34
+          height: 30
+          text: Locked by another mod
+          side: right

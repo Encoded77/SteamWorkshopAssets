@@ -1,0 +1,5 @@
+{
+  "$comment": "Read by SteamWorkshopDescriptionHelper. Identifies the repo that publishes these assets so jsDelivr URLs can be generated against it.",
+  "repo": "Encoded77/SteamWorkshopAssets",
+  "branch": "main"
+}

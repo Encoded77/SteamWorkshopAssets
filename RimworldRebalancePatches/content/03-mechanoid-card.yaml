@@ -1,0 +1,9 @@
+type: card
+title: Mechanoid Rework
+eyebrow: Requires Biotech
+icon: assets/icons/placeholder.svg
+body:
+  - p: >-
+      Rebalances mechanoid work speed and bandwidth costs so that a mid-game
+      mechanitor is a genuine investment rather than a strictly better colonist.
+      Affects **14 mech types**.

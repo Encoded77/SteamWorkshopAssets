@@ -1,0 +1,8 @@
+# Maps image name (the content file's basename) to the URL it is hosted at.
+#
+# Prefer Steam's own CDN: upload the PNG as a workshop screenshot, then copy its
+# steamuserimages-a.akamaihd.net address here. Imgur is region-blocked for UK
+# users, which silently breaks images for part of your audience.
+#
+# Example:
+# 01-features-banner: https://steamuserimages-a.akamaihd.net/ugc/0000000000000000000/ABCDEF/

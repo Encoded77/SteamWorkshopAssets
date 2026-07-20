@@ -1,0 +1,12 @@
+type: preview-screenshot
+screenshot: assets/screenshots/worktab.png
+fit: contain
+overlay: Work Tab Locks
+flag: "1.6"
+annotations:
+  - x: 242
+    y: 94
+    width: 34
+    height: 30
+    text: Locked cell
+    side: bottom

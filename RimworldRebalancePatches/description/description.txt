@@ -1,0 +1,13 @@
+{{image:01-features-banner}}
+
+Keep the things people search for and the things that change often as real
+text: Steam indexes description text, so anything moved into an image stops
+matching workshop search.
+
+{{image:02-compatibility}}
+
+{{image:03-mechanoid-card}}
+
+[h2]Known Issues[/h2]
+Text that changes often is cheaper to maintain here than in a regenerated and
+re-uploaded PNG.
