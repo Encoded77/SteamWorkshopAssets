@@ -1,11 +1,11 @@
 <!-- Sci-fi renaming: an old label replaced by a new one. Clipped-corner plates
      echo the corner ticks used throughout the design system. -->
 <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M8 7H30L36 13V19H8Z" stroke="#9a6612" stroke-width="1.5"/>
-  <path d="M12 13H26" stroke="#9a6612" stroke-width="1.5"/>
+  <path d="M8 7H30L36 13V19H8Z" stroke="var(--c-accent-700, #9a6612)" stroke-width="1.5"/>
+  <path d="M12 13H26" stroke="var(--c-accent-700, #9a6612)" stroke-width="1.5"/>
 
-  <path d="M24 22V29M19.5 25.5 24 30 28.5 25.5" stroke="#efa62c" stroke-width="2"/>
+  <path d="M24 22V29M19.5 25.5 24 30 28.5 25.5" stroke="var(--c-accent-500, #efa62c)" stroke-width="2"/>
 
-  <path d="M8 33H30L36 39V45H8Z" fill="rgba(239,166,44,0.16)" stroke="#ffc35c" stroke-width="2"/>
-  <path d="M12 39H26" stroke="#efa62c" stroke-width="1.5"/>
+  <path d="M8 33H30L36 39V45H8Z" fill="color-mix(in srgb, var(--c-accent-500, #efa62c) 16%, transparent)" stroke="var(--c-accent-400, #ffc35c)" stroke-width="2"/>
+  <path d="M12 39H26" stroke="var(--c-accent-500, #efa62c)" stroke-width="1.5"/>
 </svg>
