@@ -1,1 +1,8 @@
-{}
+{
+  banner01-details: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@85c41c65c5d46635ea630bcd948b0685fd7361da/RimworldSmartPriorities/out/banner01-details.png,
+  banner02-middleclick: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@85c41c65c5d46635ea630bcd948b0685fd7361da/RimworldSmartPriorities/out/banner02-middleclick.png,
+  banner03-ext-worker-awareness: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@85c41c65c5d46635ea630bcd948b0685fd7361da/RimworldSmartPriorities/out/banner03-ext-worker-awareness.png,
+  banner04-configuration: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@85c41c65c5d46635ea630bcd948b0685fd7361da/RimworldSmartPriorities/out/banner04-configuration.png,
+  banner05-performance: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@85c41c65c5d46635ea630bcd948b0685fd7361da/RimworldSmartPriorities/out/banner05-performance.png,
+  banner06-compat: https://cdn.jsdelivr.net/gh/Encoded77/SteamWorkshopAssets@85c41c65c5d46635ea630bcd948b0685fd7361da/RimworldSmartPriorities/out/banner06-compat.png
+}
