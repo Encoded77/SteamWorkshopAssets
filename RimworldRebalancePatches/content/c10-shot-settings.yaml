@@ -4,17 +4,18 @@ caption: Every patch is a toggle, and every toggle states what it needs.
 # Fixed canvas, identical across the carousel.
 width: 1100
 height: 850
-dim: 0.35
+dim: 0.45
 annotations:
-  - x: 1045
-    y: 207
-    width: 255
-    height: 30
-    text: Greyed out when a target mod is missing
+  - x: 1030
+    y: 199
+    width: 282
+    height: 47
+    text: Disabled when a target mod is missing
     side: left
-  - x: 640
-    y: 866
-    width: 390
-    height: 90
-    text: Each toggle lists its required mods
-    side: bottom
+  - x: 632
+    y: 717
+    width: 400
+    height: 240
+    text: Documentation on hover
+    side: left
+upscale: false
