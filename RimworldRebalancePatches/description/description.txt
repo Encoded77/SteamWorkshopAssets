@@ -13,7 +13,11 @@ Integrated: ReSplice: Core, Gene Extractor Tiers, Gene Nodes - Genes for Sale, G
 
 {{image:d22-card-gene-dedup}}
 
-Alpha Genes keeps its immunities and armor, Big and Small its body mechanics, the specialist VRE packs their specialty, Det's packs their signature quirks. Alpha Genes' ~90 animal summon genes are removed outright. VRE - Hussar's per-weapon aptitude genes (~300 on a large modlist) collapse into four. WVC's most powerful races no longer spawn as random wanderers or faction pawns; you get them through WVC's own events, morphs and implanters.
+The gene list gets a lot shorter. Alpha Genes keeps its immunities and armor, Big and Small its body mechanics, the specialist Vanilla Races Expanded packs their specialty, Det's Xenotypes their quirks; Alpha Genes' animal summons go entirely, and VRE - Hussar's per-weapon aptitudes are replaced by four. WVC's strongest races have to be earned through its own events and morphs instead of walking in with a raid.
+
+{{image:d31-card-xenotype-factions}}
+
+Settled outlanders lean industrial, rough outlanders frontier, pirates predatory, the Empire aristocratic; deep-space xenotypes concentrate in Rimsenal's Spacer factions and Odyssey's Salvagers. Covers Det's Xenotypes, the Rimsenal xenotype packs, Vanilla Races Expanded, Highborn Xenotype, WVC - Xenotypes and Genes and Alpha Genes. Every reworked roster keeps at least a third of baseliners.
 
 {{image:d23-card-scifi-renaming}}
 
@@ -34,7 +38,7 @@ Adds mechanitor expertises (Mechlord, Mechwright) and psycast expertises (Overch
 [*]Integrated Implants: slime-safe shoulder turrets, Alpha Mechs chip requirements for mechanitor implant research, levitators ignore water, signal boosters stack with AG command range genes.
 [*]Rimsenal: armors and modular weapons gated behind the corp techs. Spacer trade caravans lose their mechanoid guards.
 [*]Research prereq cleanups: VFE Pirates warcasket weapons, Impact Weaponry, Spacer Arsenal. Eltex weapons only on psycasters.
-[*]Ideology: inspirations respect precepts, warlike factions can't roll pacifist vows, some modded xenotypes spawn in fitting factions.
+[*]Ideology: inspirations respect precepts, warlike factions can't roll pacifist vows.
 [*]Vanilla & DLC: mixed modded mechanoid raid groups, creep joiners accept all human surgeries, gene complexity sliders, a hand-picked gene list for the VQEA archogen injector, vacuum resistance nerfs on modded armors.
 [/list]
 

@@ -4,6 +4,7 @@ title: Genetics Research
 icon: assets/icons/genetics-research.svg
 body:
   - p: >-
-      Genetics moves up to spacer tier and the whole tree is reworked, from basic
-      genetic sampling through to archogenetics. Supported gene mods slot into that
-      progression rather than sitting beside it, each behind its own toggle.
+      Genetics moves up to spacer tier and the **whole tree is reworked**, from
+      basic genetic sampling through to archogenetics. _Supported gene mods slot
+      into that progression_ rather than sitting beside it, each behind its own
+      toggle.

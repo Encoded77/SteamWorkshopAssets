@@ -1,0 +1,11 @@
+type: card
+eyebrow: Requires Biotech
+title: Xenotype Faction Rosters
+icon: assets/icons/xenotype-factions.svg
+body:
+  - p: >-
+      Every xenotype pack adds itself to the same generic factions, until
+      **fewer than a tenth** of outlanders and pirates are baseliner. Rosters
+      are rebuilt around what each faction is, and xenotypes cut from one gain
+      weight in another that suits them. The tribal factions, _which had no
+      roster at all_, get one.
