@@ -4,7 +4,7 @@ title: Cybernetics Overhaul
 icon: assets/icons/cybernetics.svg
 layout: spine
 steps:
-  - title: One tab, one surgery
+  - title: Research overhaul
     tag: surgical implantation
     body: >-
       Every implant mod's research tab folds into a single Cybernetics tab,
