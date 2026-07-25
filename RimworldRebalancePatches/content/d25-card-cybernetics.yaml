@@ -1,0 +1,35 @@
+type: steps
+eyebrow: Off by default
+title: Cybernetics Overhaul
+icon: assets/icons/cybernetics.svg
+layout: spine
+steps:
+  - title: One tab, one surgery
+    tag: surgical implantation
+    body: >-
+      Every implant mod's research tab folds into a single Cybernetics tab,
+      rooted on one cheap early research. Once a colony can operate, it can fit
+      anything it gets hold of; what it can _build_ is staged across the rest.
+  - title: Three branches, a tier at a time
+    body: >-
+      **Chassis** rebuilds the body, **Cortex** rebuilds the mind, and
+      **Modules** are the bolt-on hardware — each staged so no single project
+      hands over a whole tier at once.
+  - title: Parts that host implants
+    tag: Requires EBSG Framework
+    body: >-
+      A part replaces a body part; a module adds a capability and plugs into a
+      slot on a host already in the pawn — cognitive modules into a cyberbrain,
+      torso modules into a thoracic frame. Host tier caps how many it carries.
+  - title: Cyberbrains with character
+    tag: Requires GiTS Cyberbrains
+    body: >-
+      Cyberbrains now come from three rival makers — _Civis_, _Aegis_, _Echo_ —
+      named for the work they do. Civis for workers, Aegis for combatants and
+      Echo for psycasters
+  - title: Two endings to build toward
+    body: >-
+      The tree closes on two opposed capstones that share a prerequisite:
+      **synthetic ascension** rebuilds a pawn as an android free of biology,
+      while **symbiotic integration** grows a frame that only works in living
+      flesh.

@@ -7,6 +7,10 @@ This mod touches a lot of things, and it keeps growing as more mods get patched 
 
 {{image:d20-banner-overhauls}}
 
+{{image:d25-card-cybernetics}}
+
+Integrated: Core, Royalty, Biotech, EPOE-Forked, Integrated Implants, GiTS Cyberbrains, Psychic Implants, Altered Carbon and Vanilla Races Expanded - Android, with module hosting through EBSG Framework and thoracic frames that take Big and Small's mechanical ribs where present.
+
 {{image:d21-card-genetics-research}}
 
 Integrated: ReSplice: Core, Gene Extractor Tiers, Gene Nodes - Genes for Sale, Gene Fabrication, Gene Ripper, and Vanilla Quests Expanded - Ancients, where a new archogen engineering capstone lets you build the archogen injector and its lab facilities yourself at archite-tier costs. Pulling them out of ancient vaults still works as the early route.
@@ -48,7 +52,7 @@ Patches only apply when the mods they target are loaded, so nothing here is a ha
 
 {{image:d45-shot-settings}}
 
-Full details per toggle in the mod settings and in the documentation on GitHub.
+Full details per toggle in the mod settings and in the documentation on GitHub. The mod's own text is set up for translation.
 
 {{image:d50-banner-credits}}
 
