@@ -1,9 +1,9 @@
 [h1]Rebalance Patches[/h1]
-Opinionated balance tweaks and cross-mod compatibility patches, aimed at getting a big pile of mods to play nicely together.
+Opinionated balance tweaks and cross-mod compatibility patches, plus a substantial amount of custom content to expand existing mods and fill gaps where needed, all aimed at getting a big pile of mods to play nicely together as a cohesive experience.
 
 {{image:d10-banner-details}}
 
-This mod touches a lot of things, and it keeps growing as more mods get patched together. If a mod misbehaves, reproduce the issue with this patch disabled before reporting it.
+This mod touches a lot of things, and it keeps growing as more mods get patched together. If a mod misbehaves, please try to reproduce the issue with this patch disabled before reporting it to the respective mod author.
 
 {{image:d20-banner-overhauls}}
 
@@ -42,9 +42,11 @@ Adds mechanitor expertises (Mechlord, Mechwright) and psycast expertises (Overch
 [*]Integrated Implants: slime-safe shoulder turrets, Alpha Mechs chip requirements for mechanitor implant research, levitators ignore water, signal boosters stack with AG command range genes.
 [*]Rimsenal: armors and modular weapons gated behind the corp techs. Spacer trade caravans lose their mechanoid guards.
 [*]Research prereq cleanups: VFE Pirates warcasket weapons, Impact Weaponry, Spacer Arsenal. Eltex weapons only on psycasters.
-[*]Ideology: inspirations respect precepts, warlike factions can't roll pacifist vows.
+[*]Ideology: inspirations respect precepts, warlike factions can't roll pacifist vows, and two opposed genetics memes, Genecrafted and Bloodline Purity, that react to how far a colonist's genes stray from their xenotype template.
 [*]Vanilla & DLC: mixed modded mechanoid raid groups, creep joiners accept all human surgeries, gene complexity sliders, a hand-picked gene list for the VQEA archogen injector, vacuum resistance nerfs on modded armors.
 [/list]
+
+This list is not exhaustive and there is more patches for a lot of mods available in the settings.
 
 {{image:d40-banner-compatibility}}
 
@@ -52,11 +54,11 @@ Patches only apply when the mods they target are loaded, so nothing here is a ha
 
 {{image:d45-shot-settings}}
 
-Full details per toggle in the mod settings and in the documentation on GitHub. The mod's own text is set up for translation.
+Full details per toggle in the mod settings and in the documentation on GitHub. The mod's own text is set up for translation if someone want to contribute !.
 
 {{image:d50-banner-credits}}
 
-Heavily inspired by TooManyMods - Compat and the Progression series of research overhauls.
+Heavily inspired by TooManyMods - Compat and Ferny's Progression series of research overhauls.
 
 [hr][/hr]
 Source code: https://github.com/Encoded77/RimworldRebalancePatches
