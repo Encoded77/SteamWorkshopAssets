@@ -8,3 +8,7 @@ body:
       four per skill. _Most bonuses become multipliers_ capped near +40% at
       level 20, instead of flat offsets that overshoot a stat's ceiling
       entirely. Quality expertises now trade work speed for output.
+  - p: >-
+      Optionally, **every generated pawn** skilled enough to qualify (raiders,
+      recruits, visitors) can spawn _already holding_ one matching expertise, so
+      it is no longer a colonists-only perk.
