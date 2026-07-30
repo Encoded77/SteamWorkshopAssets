@@ -38,14 +38,15 @@ Adds mechanitor expertises (Mechlord, Mechwright) and psycast expertises (Overch
 [*]Altered Carbon: disables the redundant ranged shield belt from VAE Accessories in favour of the harder to get cuirassier belt, a slider for the casting relay's needlecasting range, and a sleeve broker orbital trader that sells empty sleeve bodies, neural stacks and genepacks so the transhuman economy has a buy-side.
 [*]Altered Carbon scenario, "Digitized": a solo naked-brutality start where your digitized mind wakes as an empty sleeve needlecast from a derelict matrix sealed in a bunker. You start with nothing; destroy the matrix and the sleeve dies with it.
 [*]GiTS Cyberbrains: only basic cyberbrains on the market, surgeries via EPOE-Forked brain surgery, post-basic cyberization at ultratech tier, harsher extreme mental break, tidied-up research tree.
-[*]Progression Robotics: streamlines the per-mech and per-gear unlock research into a handful of shared, themed projects (standard combat mechs, utility mechs, bandwidth gear, mechlord equipment and more) instead of one long flat list. Covers Alpha Mechs' additions too.
+[*]Progression Robotics: streamlines the per-mech and per-gear unlock research into a handful of shared, themed projects (standard combat mechs, utility mechs, bandwidth gear, mechlord equipment and more) instead of one long flat list.
 [*]Odyssey: the long-range passenger shuttle gets 2000 chemfuel and 2000 kg cargo capacity.
 [*]Alpha Genes: genes join vanilla genepacks, alphapacks/mixedpacks removed.
 [*]Integrated Implants: slime-safe shoulder turrets, Alpha Mechs chip requirements for mechanitor implant research, levitators ignore water, signal boosters stack with AG command range genes.
 [*]Rimsenal: armors and modular weapons gated behind the corp techs. Spacer trade caravans lose their mechanoid guards.
 [*]Research prereq cleanups: VFE Pirates warcasket weapons, Impact Weaponry, Spacer Arsenal. Eltex weapons only on psycasters.
-[*]Ushanka's Biological Warfare: the flat disease research becomes a staged tree, weapon tiers on one branch and vaccines on a shared antigen-analysis branch.
-[*]Ideology: inspirations respect precepts, warlike factions can't roll pacifist vows, and two opposed genetics memes, Genecrafted and Bloodline Purity, that react to how far a colonist's genes stray from their xenotype template.
+[*]Ushanka's Biological Warfare: streamlined research tree.
+[*]Ideology: inspirations respect precepts, warlike factions can't roll pacifist vows, and two new opposed genetics memes: Genecrafted and Bloodline Purity, that react to how far a colonist's genes stray from their xenotype template.
+[*]Vanilla Achievements Expanded: no more summoning traders on demand, the powerful point exchanges cost more, and cheaper ones are added.
 [*]Vanilla & DLC: mixed modded mechanoid raid groups, creep joiners accept all human surgeries, gene complexity sliders, a hand-picked gene list for the VQEA archogen injector, vacuum resistance nerfs on modded armors.
 [/list]
 
