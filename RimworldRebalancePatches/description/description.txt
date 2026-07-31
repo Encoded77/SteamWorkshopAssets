@@ -13,7 +13,7 @@ Integrated: Core, Royalty, Biotech, EPOE-Forked, Integrated Implants, GiTS Cyber
 
 {{image:d26-card-psycast}}
 
-Integrated: Royalty, Vanilla Psycasts Expanded, Eltex Weaponry, Vali's Charged Arsenal - Eltex Series and Vanilla Factions Expanded - Deserters, which carries the techprint.
+Integrated: Royalty, Vanilla Psycasts Expanded, Eltex Weaponry, Vali's Charged Arsenal - Eltex Series and Vanilla Factions Expanded - Deserters.
 
 {{image:d21-card-genetics-research}}
 
