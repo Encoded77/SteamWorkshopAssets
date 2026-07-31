@@ -1,0 +1,18 @@
+<!-- Psycast: a robed figure with a focusing shard at the brow, flanked by two
+     psychic arcs. The robe is the whole point of the overhaul — the caster who
+     gives up armor is the one the gear rewards. -->
+<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- brow shard -->
+  <path d="M24 4L28 10L24 16L20 10Z" fill="var(--c-accent-500, #efa62c)"/>
+  <!-- circlet band -->
+  <path d="M17 14H31" stroke="var(--c-accent-400, #ffc35c)" stroke-width="2"/>
+  <!-- robe: narrow shoulders falling into an A-line hem -->
+  <path d="M19 18H29L34 42H14Z" stroke="var(--c-accent-500, #efa62c)" stroke-width="2" stroke-linejoin="miter"/>
+  <!-- centre vestment panel -->
+  <path d="M24 18V42" stroke="var(--c-accent-700, #9a6612)" stroke-width="1.5"/>
+  <!-- hem band -->
+  <path d="M15 38H33" stroke="var(--c-accent-400, #ffc35c)" stroke-width="1.5"/>
+  <!-- psychic arcs -->
+  <path d="M11 20C8 24 8 30 11 34" stroke="var(--c-accent-700, #9a6612)" stroke-width="1.5"/>
+  <path d="M37 20C40 24 40 30 37 34" stroke="var(--c-accent-700, #9a6612)" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,30 @@
+type: steps
+eyebrow: Off by default · Requires Vanilla Psycasts Expanded
+title: Psycast Overhaul
+icon: assets/icons/psycast.svg
+layout: spine
+steps:
+  - title: One tab for the whole craft
+    tag: eltex working
+    body: >-
+      Caster clothing, eltex crafting and eltex weapons sit on three unrelated
+      tabs with no order between them. They fold into one Psychic tab:
+      attunement, then **eltex working** behind an Empire techprint, then
+      armorweave.
+  - title: Prestige armor earns its thread
+    body: >-
+      Every prestige suit that actually carries psychic thread now needs the
+      weave as well as its own armor research. Armor that only wears the
+      prestige tag for the look is left alone.
+  - title: The robe beats the plate
+    body: >-
+      The two slots where a caster gives up real armor are buffed: robe and
+      skullcap gain sensitivity, meditation and _cheaper psycasts_. Prestige
+      armor keeps everything it had, it simply stops being the better choice for
+      pure casting.
+  - title: Vestments that refuse the unworthy
+    tag: authored gear
+    body: >-
+      An endgame set — **eltex vestment**, **eltex diadem**, plus the trousers
+      the wardrobe never had. Enormous psychic output, almost no protection, and
+      a _minimum psychic sensitivity to wear_.

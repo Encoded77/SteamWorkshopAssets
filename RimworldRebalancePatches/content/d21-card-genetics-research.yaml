@@ -1,5 +1,5 @@
 type: card
-eyebrow: Requires Biotech
+eyebrow: Off by default · Requires Biotech
 title: Genetics Research
 icon: assets/icons/genetics-research.svg
 body:
