@@ -13,7 +13,7 @@ Integrated: Core, Royalty, Biotech, EPOE-Forked, Integrated Implants, GiTS Cyber
 
 {{image:d26-card-psycast}}
 
-Integrated: Royalty, Vanilla Psycasts Expanded, Eltex Weaponry, Vali's Charged Arsenal - Eltex Series and Vanilla Factions Expanded - Deserters.
+Integrated: Royalty, Vanilla Psycasts Expanded, Eltex Weaponry and Vanilla Factions Expanded - Deserters.
 
 {{image:d21-card-genetics-research}}
 
@@ -54,7 +54,7 @@ Adds mechanitor expertises (Mechlord, Mechwright) and psycast expertises (Overch
 [*]Vanilla & DLC: mixed modded mechanoid raid groups, creep joiners accept all human surgeries, gene complexity sliders, a hand-picked gene list for the VQEA archogen injector, vacuum resistance nerfs on modded armors.
 [/list]
 
-This list is not exhaustive and there is more patches for a lot of mods available in the settings.
+More patches for other mods are available in the settings.
 
 {{image:d40-banner-compatibility}}
 
@@ -62,7 +62,7 @@ Patches only apply when the mods they target are loaded, so nothing here is a ha
 
 {{image:d45-shot-settings}}
 
-Full details per toggle in the mod settings and in the documentation on GitHub. The mod's own text is set up for translation if someone want to contribute !.
+Full details per toggle in the settings and in the GitHub documentation.
 
 {{image:d50-banner-credits}}
 
